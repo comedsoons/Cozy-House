@@ -2,9 +2,6 @@
 	margin: 0;
 	padding: 0;
 }
-
-
-
 .burger-menu{
 	display: none;
 	width: 350px;
@@ -17,7 +14,6 @@
 }
 #check-menu{
 	display: none;
-
 }
 label{
 	display: block;
@@ -87,11 +83,6 @@ label{
 	opacity: 1;
 	cursor: pointer;
 }
-
-
-
-
-
 .wrapper{
    width: 100%;
    margin: 0;
@@ -206,11 +197,6 @@ li:hover{
 	margin-right: 0;
 	margin-top: 65px;
 }
-
-
-
-
-
 main{
 	width: 100%;
 }
@@ -247,27 +233,19 @@ main{
 .p1-dog-big-main{
 	margin-bottom: 25px;
 }
-
-
-
-
 .food-big-main{
 	width: 100%;
 	margin-bottom: 50px;
 	background: #f6f6f6;
-
-	
 }
 .h1-food-block{
-
 	text-align: center;
-margin-bottom: 60px;
-margin-top: 100px;
+    margin-bottom: 60px;
+    margin-top: 100px;
 }
 .h1-food-big-main{
 	color: #545454;
 	font-size: 35px;
-
 }
 .rrr{
 	margin-top: 50px;
@@ -282,11 +260,9 @@ margin-top: 100px;
 	width: 150px;
 	text-align: center;
 }
-
-
 .food1-text{
-font-family: sans-serif;
-font-size: 14px;
+    font-family: sans-serif;
+    font-size: 14px;
 }
 .food-block2{
 	width: 100%;
@@ -302,14 +278,9 @@ font-size: 14px;
 	margin-bottom: 50px;
 }
 .food1-text{
-font-family: sans-serif;
-font-size: 14px;
-
-
+    font-family: sans-serif;
+    font-size: 14px;
 }
-
-
-
 .dog-bank{
 	margin-left: 10%;
 }
@@ -323,12 +294,9 @@ font-size: 14px;
 	width: 358px;
 	margin-right: 20%;
 }
-
 .donation-text-big{
-margin-bottom: 17px;
+    margin-bottom: 17px;
 }
-
-
 .donation-text{
 	font-size: 35px;
 	font-family: sans-serif;
@@ -394,45 +362,17 @@ margin-bottom: 17px;
 	margin-bottom: 25px;
 }
 .email-footer, .phone-footer, .metka1-footer, .metka2-footer{
-display: flex;
-flex-direction: row;
-color: #f1cdb3;
-font-size: 14px;
-font-family: sans-serif;
-align-items:  center;
-line-height: 45px;
+    display: flex;
+    flex-direction: row;
+    color: #f1cdb3;
+    font-size: 14px;
+    font-family: sans-serif;
+    align-items:  center;
+    line-height: 45px;
 }
 .img-metka1, .img-metka2, .img-email, .img-phone{
 	margin-right: 12px;
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 @media (min-width: 0px) and (max-width: 768px){
 	.image-dog-big-header{
 		display: none;
@@ -483,14 +423,10 @@ line-height: 45px;
 	}
 	.image-dog-big-main{
 		margin: auto;
-		
 	}
-	.h1-dog-big-mainn{
-		
+	.h1-dog-big-mainn{	
 		width: 100%;
-
 		text-align: center;
-
 	}
 	.img-dog-bank{
 		width: 310px;
@@ -498,9 +434,6 @@ line-height: 45px;
 	.dog-bank{
 		margin: auto;
 		margin-bottom: 30px;
-
-	
-	
 	}
 	.image-footer{
 		display: none;
@@ -525,7 +458,6 @@ line-height: 45px;
 	}
 	.text-big-bank{
 		width: 100%;
-
 		margin: 0;
 		margin-bottom: 15px;
 	}
@@ -587,52 +519,11 @@ line-height: 45px;
 	.img-dog-bank{
 		margin-top: 0;
 	}
-	
 	.food, .food1{
 		width: 50%;
 		margin-top: 35px;
 	}
-
-	
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 @media (min-width: 768px) and (max-width: 1280px){
 	.image-dog-big-header{
 		display: none;
@@ -645,7 +536,6 @@ line-height: 45px;
 		margin:0;
 		margin-left: 30px;
 		margin-top: 20px;
-
 		width: 200px;
 	}
 	ul{
@@ -653,7 +543,6 @@ line-height: 45px;
 	}
 	.dog-big-header{
 		width: 100%;
-
 	}
 	.h1-dog-big-header{
 		width: 100%;
@@ -691,8 +580,6 @@ line-height: 45px;
 	.donation-text-big{
 		text-align: center;
 		width: 100%;
-		
-		
 	}
 	.name-bank{
 		text-align: center;
@@ -709,10 +596,7 @@ line-height: 45px;
 	}
 	.contacts{
 		width: 100%;
-		display: flex;
-
-
-		
+		display: flex;	
 	}
 	.image-footer{
 		display: none;
@@ -721,9 +605,4 @@ line-height: 45px;
 		margin-top: 30px;
 		margin-bottom: 30px;
 	}
-
 }
-
-
-
-
